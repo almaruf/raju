@@ -1,0 +1,240 @@
+@import url("reset.css");
+@import url("table.css");
+       *{
+	   padding:0;
+	   margin:0;
+	   }
+	   
+	  
+.wrapper{
+		   position: relative;
+		   width:1000px;
+		   margin:auto;
+		   background-color:white;
+	   }
+	
+	 .content_area{
+				position: relative;
+				height:517px;
+				border-bottom:2px;
+				font-family: ;
+	   }
+	   .content_area h1 {
+			padding: 50 0 0 0;
+		}
+
+
+
+.nav1 {
+   	float: right;
+   	text-decoration: none;
+   	font-size: 14px;
+   	font-weight: bold;
+   	width: 250px;
+      height: 15px;
+   	position: absolute;
+   	left: 743px;
+    	top: 6px;   
+	   }
+
+	.nav1 a {
+    text-decoration: none;
+    color: #FFF;
+    float: right;
+}
+
+   .nav2{
+			float:left;
+			padding: 15px;
+			width: 200px;
+			
+	   }
+	   
+	   .nav2 li{
+			float:left;
+			padding-right:10px;
+			font-size: 12px;
+			color: red;
+			text-align: center;
+			margin:0;
+			width:25%;
+	   }
+	   .nav2 a{
+			text-decoration: none;
+			color:red;
+	   }
+	   
+	   
+	   .nav3{
+			float:right;		
+			width: 80px;			
+			color: red;
+			padding: 15px 0;
+			
+	   }
+	   
+	    .nav3 li{
+	   
+			float:left;
+			text-decoration:none;
+			font-size: 12px;
+			
+			
+			
+	   }	   
+
+
+  .header{
+		   height:30px;
+		   background-color: #b0001b;
+		   padding: 0 0 5 5;
+		   position: relative;
+	   }
+	 
+	 
+	    .headline{
+		font-size: 17px;
+		font-weight: bold;
+		padding:5 10;
+		color:white;
+	   
+	   }	
+	   
+.redline {
+    		background-color: #B0001B;
+position: absolute;
+top: 41px;
+left: 256px;
+height: 463px;
+width: 5px;
+border-radius: 3px;
+box-shadow: -5px 5px 2px #888;	   		
+		
+}	   
+
+	.left_content{
+				height: 508;
+				width: 247px;
+			
+	}
+	
+	.para{
+		
+		font-size: 17px;
+		font-family: arial;
+		position: absolute;
+		top: 30px;
+			
+	}
+	
+	.list{
+		font-size: 13px;
+		position: relative;
+		top: 6px;
+		left: 28px;
+	}
+	
+	.list ul li{
+			list-style-type: circle;	
+	}
+	
+	.box{
+	 background-color: #BCBCBC;
+    height: 170px;
+    width: 150px;
+    position: absolute;
+    top: 271px;
+    right: -77px;
+    text-align: center;
+    font-size: 15px;
+}
+
+		.right_content{
+				height: 490px;
+				width: 680px;
+				position: absolute;
+				top: 8px;
+				left: 310px;		
+		}	
+	.h1{
+		font-size: 20px;
+			
+	}
+
+
+	.redline_2{
+			background-color: #B0001B; 	
+			position: absolute;
+			top:10px;
+			left:500px;
+			height:500px;
+			width: 5px;		
+			border-radius: 3px;
+			box-shadow: 5px 5px 2px #888888;
+					
+		}	
+	
+	
+	
+	
+	   
+	  .footer{
+				height:30px;	  
+				border-height:5px;
+				border-top: 3px solid #b0001b;
+	   }   
+	   
+	.foot_name{
+		position: absolute;
+		bottom: 1px;
+		color: #F00;
+		right: 453px;
+			
+	}
+
+
+.button{
+		background-color:#428BCA;
+		color:white;
+		height:30px; 
+		border: solid 1px #428BCA;
+		border-radius:5px ;
+		min-width: 50px;
+}
+
+#next{
+	position: absolute;
+top: 237px;
+right: 100px;
+}
+
+#text{
+	position: absolute;
+top: 278px;
+width: 301px;
+}
+
+
+#find_donor{
+	    position: absolute;
+    right: 151px;
+    bottom: 19px;
+}
+
+#find{
+	position: absolute;
+	left: 532px;
+	bottom: 12px;
+}
+
+#but{
+	position: absolute;
+top: 168px;
+right: 0px;
+}
+
+#tab{
+	position: absolute;
+	top: 201;
+left: 166;
+}
