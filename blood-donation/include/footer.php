@@ -1,9 +1,15 @@
 <html>
 	<head>
 		<link href="style.css" type="text/css" rel="stylesheet" />
+		<link href="include/style.css" type="text/css" rel="stylesheet" />
+		<link rel="stylesheet" type="text/css" href="boots/css/bootstrap.css"/>
+		<link rel="stylesheet" type="text/css" href="boots/css/style.css"/>
 	</head>
 	<body>
 
+	<div class="row">
+	
+	
 <div class ="footer">
 			 <div class="nav2">
 															
@@ -24,6 +30,8 @@
 			</div>
 						
 		  </div>	
+	</div>
+	</div>	
 	</body>
 </html>
 		

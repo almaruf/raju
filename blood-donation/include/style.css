@@ -12,10 +12,9 @@
 	   }
 
 	   .header{
-		   height:30px;
+		   
 		   background-color: #b0001b;
 		   padding: 0 0 5 5;
-		   position: relative;
 	   }
 	    .headline{
 		font-size: 17px;
@@ -60,11 +59,10 @@
 		
 		.redline{
 			background-color: #B0001B; 	
-			position: absolute;
-			top:10px;
-			left:500px;
-			height:500px;
-			width: 5px;		
+			height:650px;
+			width: 5px;
+			position: relative;
+			left: 45%;		
 			border-radius: 3px;
 			box-shadow: 5px 5px 2px #888888;
 					

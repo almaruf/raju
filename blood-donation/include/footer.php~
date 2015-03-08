@@ -1,9 +1,15 @@
 <html>
 	<head>
 		<link href="style.css" type="text/css" rel="stylesheet" />
+		<link href="include/style.css" type="text/css" rel="stylesheet" />
+		<link rel="stylesheet" type="text/css" href="boots/css/bootstrap.css"/>
+		<link rel="stylesheet" type="text/css" href="boots/css/style.css"/>
 	</head>
 	<body>
-
+	<div class="container">
+	
+	
+	
 <div class ="footer">
 			 <div class="nav2">
 															
@@ -22,13 +28,9 @@
 					<li>UX Design v2</li>
 				</ul>
 			</div>
-			
-			
-			<div class="nav4" >
-			
-			</div>
-			
+						
 		  </div>	
+	</div>
 	</body>
 </html>
 		
